@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hacked!</title>
+    <title>JADWAL PIKET 7E</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>WARNING!</h1>
-        <p>Your device has been compromised!</p>
-        <p>All your data is being monitored!</p>
-        <button onclick="startHack()">Try to Fix</button>
+        <h1>PERINGATAN!</h1>
+        <p>MAAF DIVICE KAMU TERSERANG MALLWARE!</p>
+        <p>SEMUA DATA DATA KAMU TERPANTAU!</p>
+        <button onclick="startHack()">PENCET INI UNTUK AMANKAN DATA MU!!</button>
     </div>
     <script src="script.js"></script>
 </body>
